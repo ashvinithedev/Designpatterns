@@ -1,0 +1,5 @@
+{
+  "name": "Azure Transactional Outbox Pattern",
+  "description": "Implementation of the Transactional Outbox Pattern using C#, Azure Cosmos DB, and Azure Functions for reliable event-driven systems.",
+  "requestFramePermissions": []
+}
